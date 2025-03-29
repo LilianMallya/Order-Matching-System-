@@ -1,0 +1,11 @@
+Matched Trades:
+order ord001 50 shares purchased at price 4.00
+order ord004 50 shares sold at price 4.00
+order ord001 50 shares purchased at price 4.25
+order ord003 50 shares sold at price 4.25
+order ord002 90 shares purchased at price 4.25
+order ord003 90 shares sold at price 4.25
+
+Unmatched Buy Orders:
+
+Unmatched Sell Orders:
